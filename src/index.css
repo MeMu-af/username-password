@@ -1,3 +1,10 @@
+body {
+  color: blue;
+  background-color: gold;
+  text-align: center;
+  font-style: italic;
+}
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
