@@ -1,4 +1,4 @@
-http://splendorous-yeot-225561.netlify.app/
+https://mellow-empanada-5b8b56.netlify.app/
 
 # React + Vite
 
