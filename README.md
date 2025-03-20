@@ -1,4 +1,4 @@
-https://mellow-empanada-5b8b56.netlify.app/
+http://localhost:5173/
 
 # React + Vite
 
